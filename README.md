@@ -7,14 +7,16 @@
 4. 制作字典库 dictionary
 5. 制作语料库 corpus
 
-## 原理
+## 原理(暂无......)
 1. TF-IDF
 2. LSI
 3. Doc2Vec-DM
 4. Doc2Vec-DBOW
 
 ## 效果
-LSI 效果最好,TF-IDF 次之.而 Doc2Vec 模型无法正确提取关键信息,甚至牛头不对马嘴.
+Q:"射雕英雄传中谁的武功天下第一"
+
+A:LSI 效果最好,TF-IDF 次之.而 Doc2Vec 模型无法正确提取关键信息,甚至牛头不对马嘴.
 
 ### TF-IDF
 ```
